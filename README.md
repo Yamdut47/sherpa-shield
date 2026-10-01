@@ -1,6 +1,7 @@
-# 🛡️ SherpaShield
+# <img width="1254" height="1254" alt="logo" src="https://github.com/user-attachments/assets/72131ea4-2f6f-465a-8756-96dc8bd22b39" />
+ SherpaShield
 
-**English name. Nepali soul.**
+
 
 A web-based cybersecurity tool that helps users evaluate and improve password security using password complexity analysis, entropy calculation, attack-resistance estimation, and secure password generation.
 
